@@ -88,14 +88,6 @@ Run from `launchlens_v2/`:
 
 Levi B Mackay ([@levibmackay](https://github.com/levibmackay))
 
-_Last reviewed: 2026-07-20 19:33 MDT_
+## License
 
----
-_Last updated: July 22, 2026_
-
----
-
-Maintained by [Levi Mackay](https://github.com/levibmackay)
-
-**Last updated:** 2026-08-20 07:11 MDT
-
+MIT. See [LICENSE](LICENSE).
